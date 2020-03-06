@@ -12,7 +12,7 @@ Congratulations on nearing the end of Unit 1! We'll be using the concepts covere
 
 1. Be built with HTML, CSS, and JavaScript.
 2. Use Axios to consume data from an external source, and render that data into the DOM.
-3. Use flexbox (`display: flex`).
+3. Use flexbox (`display: flex`) and/or CSS grid (`display: grid`).
 4. Implement responsive design on 3 screen sizes (including desktop) using 2 media queries (tablet and mobile).
 5. Host on Surge. _(We will go over this together.)_
 
